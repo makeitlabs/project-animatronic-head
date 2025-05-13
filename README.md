@@ -32,7 +32,14 @@ Inputs
 https://github.com/zeth/inputs
 
 
-## Notes
+## Software Notes
 
 - AI has been used to help write code for this project.
 - Pygame on older/headless rPi is slow, using Inputs instead
+
+## Eye Notes
+
+- 5 servos
+-- each eye (left/right)
+-- each eyelid (left/right)
+-- both eyes together (up/down)
