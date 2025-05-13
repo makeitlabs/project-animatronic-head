@@ -23,8 +23,16 @@ Also requires:
 Pyserial 
 https://github.com/pyserial/pyserial
 
+If using Pygame to talk to gamepad...
 Pygame 
 https://www.pygame.org/news
 
+If using Inputs to talk to gamepad...
+Inputs
+https://github.com/zeth/inputs
 
-AI has been used to help write code for this project.
+
+## Notes
+
+- AI has been used to help write code for this project.
+- Pygame on older/headless rPi is slow, using Inputs instead
