@@ -1,6 +1,8 @@
 #
 # Example code cobbled together for gamepad testing
 #
+# uses pygame, which isn't great on slower rPi...
+#
 
 import pygame
 
