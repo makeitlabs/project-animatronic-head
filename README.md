@@ -1,6 +1,21 @@
 # project-animatronic-head
 Creation of an animatronic head as a fun demo
 
+## Will Cogley ZERO Fastener Eye Mechanism Version
+
+Video
+https://youtu.be/uzPisRAmo2s?si=1dMiAXOmYrhK4bBS
+
+Files
+https://willcogley.notion.site/?p=b88ae87ceae24d1ca942adf34750bf87&pm=c
+
+
+Decided to build this version first due to the simplicity of snap together with no fasteners.
+
+Also investigating Bottango Animatronic Software for control
+https://www.bottango.com/
+
+
 ## Prototype version
 
 3D Printed head parts
