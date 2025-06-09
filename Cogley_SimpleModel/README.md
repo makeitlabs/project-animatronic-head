@@ -1,14 +1,11 @@
 # Cogley Simple Model
 
-These two files are large and will be added only via release:
+Cogley_SimpleModel.btngo: Bottango file
 
-Fusion 360 source (f3z)
+Cogley_SimpleModel.fbx: Fusion 360 export
 
-Fusion 360 export (fbx)
+This file is large and will be added only via release:
 
-This is a smaller file and more dynamic:
-
-Bottango (btngo)
-
+Cogley_SimpleModel.f3z: Fusion 360 source
 
 
